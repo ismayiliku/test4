@@ -84,8 +84,12 @@
     }
   },
   "schema": {
-    "columns": [],
-    "userModified": true
+    "columns": [
+      {"name":"Column_1","type":"double"},
+      {"name":"Column_2","type":"double"},
+      {"name":"Column_3","type":"double"}
+    ],
+    "userModified": false
   },
   "dkuProperties": [],
   "metrics": {
