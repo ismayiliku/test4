@@ -138,7 +138,7 @@
     },
     "dkuProperties": []
   },
-  "name": "test4",
+  "name": "test4 (dev)",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -202,7 +202,7 @@
     "lastModifiedOn": 1706899493493,
     "extendedProperties": {}
   },
-  "shortDesc": "The project *test4* was created by Administrator on Feb 02nd 2024",
+  "shortDesc": "The project *test4* was created by Administrator on Feb 02nd 2024\nThe project *TEST4_DEV* was copied from *TEST4* by Administrator on Feb 06th 2024",
   "tags": [
     "duplicated"
   ],
