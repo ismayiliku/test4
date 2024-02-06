@@ -17,6 +17,8 @@ test_df = Pandas_dataframe__2__df # For this sample code, simply copy input to o
 import time
 time.sleep(300)
 
+print("1st commit")
+
 # Write recipe outputs
 test = dataiku.Dataset("test")
 test.write_with_schema(test_df)
